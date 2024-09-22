@@ -1,6 +1,6 @@
 - 👋 Salom, men Muhammadjon!
-- 👀Men saytlar va botlar, sun'iy intellekt va boshqa narsalarni yaratishga qiziqaman.
-- 🌱 Men hozirda React js o'rganmoqdaman.
+- 👀 Men Front-end dasturchiman va zamonaviy, funksional veb-saytlar yaratishga ixtisoslashganman. G'oyalarni chiroyli va qulay foydalanuvchi interfeyslariga aylantirishni yaxshi ko'raman.
+- 🌱 Men hozirda ReactJS o'rganmoqdaman.
 - 😄 Men biladigan tillar: inglizcha - ravon, o'zbek - ona, rus - ravon
 
 <picture>
@@ -20,11 +20,16 @@
 
 
 **Front-end**
-
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 
 
 **Learning**
-
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 **Contact**
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Uusjo9)]([https://t.me/Uusjo9])
