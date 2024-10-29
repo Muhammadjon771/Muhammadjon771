@@ -2,6 +2,7 @@
 - 👀 Men Front-end dasturchiman va zamonaviy, funksional veb-saytlar yaratishga ixtisoslashganman. G'oyalarni chiroyli va qulay foydalanuvchi interfeyslariga aylantirishni yaxshi ko'raman.
 - 🌱 Men hozirda ReactJS o'rganmoqdaman.
 - 😄 Men biladigan tillar: inglizcha - ravon, o'zbek - ona, rus - ravon
+- Mening Xalqaro Meta sertifikatim https://coursera.org/share/a14b73bfa6be6b8056ef75a87a03d693
 
 <picture>
   <source
