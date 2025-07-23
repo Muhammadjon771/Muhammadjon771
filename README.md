@@ -36,5 +36,5 @@
 
 **Contact**
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Uusjo9)]([https://t.me/Uusjo9])
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/safujo9)]([https://t.me/Uusjo9])
 
